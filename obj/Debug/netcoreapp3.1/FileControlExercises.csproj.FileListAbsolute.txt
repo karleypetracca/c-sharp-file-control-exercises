@@ -1,0 +1,13 @@
+C:\Users\karle\udemy-courses\c#-beginner\FileControlExercises\bin\Debug\netcoreapp3.1\FileControlExercises.exe
+C:\Users\karle\udemy-courses\c#-beginner\FileControlExercises\bin\Debug\netcoreapp3.1\FileControlExercises.deps.json
+C:\Users\karle\udemy-courses\c#-beginner\FileControlExercises\bin\Debug\netcoreapp3.1\FileControlExercises.runtimeconfig.json
+C:\Users\karle\udemy-courses\c#-beginner\FileControlExercises\bin\Debug\netcoreapp3.1\FileControlExercises.runtimeconfig.dev.json
+C:\Users\karle\udemy-courses\c#-beginner\FileControlExercises\bin\Debug\netcoreapp3.1\FileControlExercises.dll
+C:\Users\karle\udemy-courses\c#-beginner\FileControlExercises\bin\Debug\netcoreapp3.1\FileControlExercises.pdb
+C:\Users\karle\udemy-courses\c#-beginner\FileControlExercises\obj\Debug\netcoreapp3.1\FileControlExercises.csprojAssemblyReference.cache
+C:\Users\karle\udemy-courses\c#-beginner\FileControlExercises\obj\Debug\netcoreapp3.1\FileControlExercises.csproj.CoreCompileInputs.cache
+C:\Users\karle\udemy-courses\c#-beginner\FileControlExercises\obj\Debug\netcoreapp3.1\FileControlExercises.AssemblyInfoInputs.cache
+C:\Users\karle\udemy-courses\c#-beginner\FileControlExercises\obj\Debug\netcoreapp3.1\FileControlExercises.AssemblyInfo.cs
+C:\Users\karle\udemy-courses\c#-beginner\FileControlExercises\obj\Debug\netcoreapp3.1\FileControlExercises.dll
+C:\Users\karle\udemy-courses\c#-beginner\FileControlExercises\obj\Debug\netcoreapp3.1\FileControlExercises.pdb
+C:\Users\karle\udemy-courses\c#-beginner\FileControlExercises\obj\Debug\netcoreapp3.1\FileControlExercises.genruntimeconfig.cache
